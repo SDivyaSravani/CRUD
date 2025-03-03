@@ -22,7 +22,7 @@ const CreateUser = () => {
     <div>
         <div className='d-flex flex-column justify-content-center align-items-center bg-white w-100 h-100'>
             <div className='vw-50 bg-white rounded-2'>
-            <h1> ADD NEW USER</h1>
+            <h1> ADD NEW DATA</h1>
                 <form onSubmit={Submit}>
                     <div className='m-4 d-flex flex-row'>
                         <label htmlFor='name'>Name:</label>
